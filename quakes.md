@@ -9,16 +9,16 @@ geológicas no tardan en arrojar sus reportes sismológicos. Una de las más con
 **[Extracto del reporte sismológico del terremoto de Chile del 16 de setiembre 
 del 2015. (*http://earthquake.usgs.gov/earthquakes/eventpage/us20003k7a#general_summary*)]**
 
-En este tipo de situaciones, los medios de comunicación cumplen una labor esencial en la difusión de la información pertinente y de concernencia pública. Así, por ejemplo, El *Comercio* informaba a traves de su cuenta de Twitter de esta manera
+En este tipo de situaciones, los medios de comunicación cumplen una labor esencial en la difusión de la información pertinente y de concernencia pública. Así, por ejemplo, **El Comercio** informaba a través de su cuenta de Twitter de esta manera:
 
 ![](images/ec.png)
 **[Así retransmitió el decano de la prensa peruana.]**
 
-Quizás hasta aquí no es fácil percatarse de que los redactores de este conocido medio de comunicación han caído en un error muy común al tratar de retransmitir el reporte de la USGS. De hecho, muchos medios de comunicación cometen el eterno error de anunciar "sismos de X grados en la escala de Richter" al punto tal de que, hoy en día, son pocos los que saben que, en realidad, las escalas sismológicas **no son ni graduadas, ni de Richter en su mayoría**.
+Quizás hasta aquí no es fácil percatarse de que los redactores de este conocido medio de comunicación han caído en un error muy común al tratar de retransmitir el reporte de la USGS. De hecho, muchos medios de comunicación cometen el eterno error de anunciar "sismos de X grados en la escala de Richter" al punto tal de que, hoy en día, son pocos los que saben que, en realidad, las escalas sismológicas **no son graduadas, y la escala de Richter ya casi ni se usa, se usan otras**.
 
 En primer lugar, una escala graduada, como la de grados Celsius, se define en base a dos valores arbitrarios entre los cuales se divide en una cierta cantidad de partes[<sup>1</sup>](#note1). Así, por ejemplo, tomando como referencia las temperaturas del punto de ebullición y del fusión del agua a 1 atmósfera y al dividir esta distancia en cien partes, se construye la escala de los grados Celsius. Este, por el contrario, no es el caso de las escalas sismológicas ya que su definición no es en base a valores relativos sino en relación a la energía liberada.
 
-Otro detalle importante respecto a las escalas sismológicas es que estas son logarítmicas. Dicho de otra forma, una escala de este tipo es tal que un valor entero de magnitud corresponde en realidad a varias veces su valor antecesor; 31 veces para ser precisos[<sup>2</sup>](#note2). Así por ejemplo, la energía liberada en un terremoto de magnitud 8 es equivalente a treinta y un terremotos de magnitud 7.
+Otro detalle importante respecto a **las escalas sismológicas es que son logarítmicas**. Dicho de otra forma, una escala de este tipo es tal que un valor entero de magnitud corresponde en realidad a varias veces su valor antecesor; 31 veces para ser precisos[<sup>2</sup>](#note2). Así por ejemplo, la energía liberada en un terremoto de magnitud 8 es equivalente a treinta y un terremotos de magnitud 7.
 
 ![](images/comparacion.jpg)
 **[Comparación entre la magnitud de un terremoto y su equivalencias.]**
@@ -28,7 +28,7 @@ Teniendo esto en mente, uno podría preguntarse cómo sería experimentar terrem
 ![](images/alderaan.jpg)
 **["El servicio geológico de Alderaan ha confirmado que un terremoto de magnitud 15 ha vaporizado todos sus sismógrafos". (Tomado de [[2]](#note2)).]**
 
-Tambien para magnitudes muy pequeñas,
+También para magnitudes muy pequeñas,
 
 ![](images/m-2.png)
 **["Magnitud -2: Un gato cayendo desde un tocador". (Tomado de [[2]](#note2).]**
@@ -47,7 +47,7 @@ Como podemos darnos cuenta, tenemos un buen número de escalas y no sólo la fam
 ![](images/igp.png)
 **[Twitter del Instituto Geofísico del Perú (IGP) reportando en la escala m<sub>b</sub> (izquierda) y en la escala M<sub>L</sub> (derecha).]**
 
-El hecho de que las diferentes escalas coincidan entre sí en sus respectivos rangos de confianza ofrece, además, la ventaja de poder estimar el valor de la magnitud de momento mediante alguna otra de las escalas mencionadas. Esto resulta bastante útil si se toma en cuenta de que la determinación de la magnitud de momento no resulta tan simple de calcular como las demás[<sup>7</sup>](#note7). En palabras del Dr. Hernando Tavera, director de Sismología del Instituto Geofísico del Perú (IGP) y quién amablemente nos explicó mejor esta situación; el fin que se busca es el de disponer de información lo más pronto posible. Si bien es cierto, la meta es migrar de manera definitiva a la magnitud de momento, el proceso de transición será paulatino.
+El hecho de que las diferentes escalas coincidan entre sí en sus respectivos rangos de confianza ofrece, además, la ventaja de poder estimar el valor de la magnitud de momento mediante alguna otra de las escalas mencionadas. Esto resulta bastante útil si se toma en cuenta de que la determinación de la magnitud de momento no resulta tan simple de calcular como las demás[<sup>7</sup>](#note7). En palabras del Dr. Hernando Tavera, director de Sismología del Instituto Geofísico del Perú (IGP) y quien amablemente nos explicó mejor esta situación; el fin que se busca es el de disponer de información lo más pronto posible. Si bien es cierto, la meta es migrar de manera definitiva a la magnitud de momento, el proceso de transición será paulatino.
 
 ![](images/scales.png)
 **[Comparación entre M<sub>W</sub>, M<sub>L</sub>, M<sub>S</sub> y m<sub>b</sub>. La linea diagonal punteada corresponde a la escala M<sub>W</sub>. Las lineas verticales azul, verde y roja señalan las magnitudes a partir de las cuales las escalas M<sub>L</sub>, m<sub>b</sub> y M<sub>S</sub>, respectivamente, dejan de coincidir con la escala de momento. (Adaptado de [[8]](#note8)).]**
@@ -57,7 +57,7 @@ Ante este escenario y con la finalidad de brindar mayor claridad a la población
 ![](images/usgs-m.png)
 **[La USGS opta por simplificar sus reportes.]**
 
-Como se señaló al comienzo, los medios de comunicación juegan un rol importante en cuanto sirven de canal de acercamiento entre las entidades científicas especializadas y la población. No obstante, cuando esta información se distorsiona se corre el riesgo de confundir a la población y de ponerla en un potencial peligro. Si bien es cierto el seguir empleando los términos "grados" y "escala de Richter" son errores cometidos por un gran número agencias de noticias a nivel mundial, nuestro país no puede darse el lujo de desconocer aspectos de un peligro constante para sus ciudadanos. Hablamos de un pais cuya capital posee cerca de la tercera parte de su población[<sup>9</sup>](#note9) y que no se encontraría preparada para hacerle frente a un sismo de magnitud 8.5[<sup>10</sup>](#note10). En consecuencia, la única forma de poder estar más preparados para lo peor es conocer y prevenir.
+Como se señaló al comienzo, los medios de comunicación juegan un rol importante en cuanto sirven de canal de acercamiento entre las entidades científicas especializadas y la población. No obstante, cuando esta información se distorsiona se corre el riesgo de confundir a la población y de ponerla en un potencial peligro. Si bien es cierto el seguir empleando los términos "grados" y "escala de Richter" son errores cometidos por un gran número agencias de noticias a nivel mundial, nuestro país no puede darse el lujo de desconocer aspectos de un peligro constante para sus ciudadanos. Hablamos de un país cuya capital posee cerca de la tercera parte de su población[<sup>9</sup>](#note9) y que no se encontraría preparada para hacerle frente a un sismo de magnitud 8.5[<sup>10</sup>](#note10). En consecuencia, la única forma de poder estar más preparados para lo peor es conocer y prevenir.
 
 
 Por Pablo Palacios Ávila ([@ppalaciosav](https://twitter.com/ppalaciosav))
