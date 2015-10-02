@@ -1,6 +1,6 @@
 # Desterrando la escala de Richter.
 
-Por Pablo Palacios Ávila [\@ppalaciosav](https://twitter.com/ppalaciosav)
+Por Pablo Palacios Ávila [@ppalaciosav](https://twitter.com/ppalaciosav)
 
 Siempre que ocurre un terremoto en alguna parte del mundo, diferentes agencias 
 geológicas no tardan en arrojar sus reportes sismológicos. Una de las más conocidas y confiables, el Servicio Geológico de los Estados Unidos (USGS) no tardó mucho en reportar las primeras cifras y datos respecto al último terremoto que azotó a Chile el último 16 de setiembre. Su portal web anunciaba así
@@ -8,6 +8,7 @@ geológicas no tardan en arrojar sus reportes sismológicos. Una de las más con
 ![](images/usgs.png)
 ** [Extracto del reporte sismológico del terremoto de Chile del 16 de setiembre 
 del 2015. (http://earthquake.usgs.gov/earthquakes/eventpage/us20003k7a#general_summary)]**
+
 En este tipo de situaciones, los medios de comunicación cumplen una labor esencial en la difusión de la información pertinente y de concernencia pública. Así, por ejemplo, El *Comercio* informaba a traves de su cuenta de Twitter de esta manera
 
 ![](images/ec.png)
@@ -48,7 +49,7 @@ El hecho de que las diferentes escalas coincidan entre sí en sus respectivos ra
 
 Ante este escenario y con la finalidad de brindar mayor claridad a la población, diversas agencias geológicas de diferentes países han adoptado ciertos protocolos en sus reportes. La USGS, por ejemplo, opta por sólo informar sobre la magnitud del sismo en cuestión sin indicar la escala sismológica empleada, reservando esta información sólo en caso de que esta sea solicitada; asimismo, se manejan tanto reportes sismológicos preliminares, siempre sujetos a actualizaciones en el breve lapso, como también reportes finales que indican únicamente magnitudes en la escala de momento.
 
-![](images/usgs.png)
+![](images/usgs-m.png)
 **[La USGS opta por simplificar sus reportes.]**
 
 Como se señaló al comienzo, los medios de comunicación juegan un rol importante en cuanto sirven de canal de acercamiento entre las entidades cientificas especializadas y la población. No obstante, cuando esta información se distorsiona se corre el riesgo de confundir a la población y de ponerla en un potencial peligro. Si bien es cierto el seguir empleando los términos "grados" y "escala de Richter" son errores cometidos por un gran número agencias de noticias a nivel mundial, nuestro país no puede darse el lujo de desconocer aspectos de un peligro constante para sus ciudadanos. Hablamos de un pais cuya capital posee cerca de la tercera parte de su población[<sup>8</sup>](#note8) y que no se encontraría preparada para hacerle frente a un sismo de magnitud 8.5[<sup>9</sup>](#note9). En consecuencia, la única forma de poder estar más preparados para lo peor es conocer y prevenir.
