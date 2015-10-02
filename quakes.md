@@ -1,6 +1,7 @@
 # Desterrando la escala de Richter.
 
-Por Pablo Palacios Ávila ([@ppalaciosav](https://twitter.com/ppalaciosav))
+| Por Pablo Palacios Ávila ([@ppalaciosav](https://twitter.com/ppalaciosav))
+| Físico. Egresado de la UNI.
 
 Siempre que ocurre un terremoto en alguna parte del mundo, diferentes agencias 
 geológicas no tardan en arrojar sus reportes sismológicos. Una de las más conocidas y confiables, el Servicio Geológico de los Estados Unidos (USGS), no tardó mucho en reportar las primeras cifras y datos respecto al último terremoto que azotó a Chile el último 16 de setiembre. Su portal web anunciaba así
