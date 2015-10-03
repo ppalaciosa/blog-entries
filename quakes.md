@@ -27,12 +27,12 @@ Otro detalle importante respecto a **las escalas sismológicas es que son logar�
 Teniendo esto en mente, uno podría preguntarse cómo sería experimentar terremotos mayores a magnitud 9. Una buena imagen mental nos la brinda Randall Munroe en su libro *What If?*
 
 ![](images/alderaan.jpg)
-**["El servicio geológico de Alderaan ha confirmado que un terremoto de magnitud 15 ha vaporizado todos sus sismógrafos". (Tomado de [[2]](#note2)).]**
+**["El servicio geológico de Alderaan ha confirmado que un terremoto de magnitud 15 ha vaporizado todos sus sismógrafos". (Tomado de [[3]](#note3)).]**
 
 También para magnitudes muy pequeñas,
 
 ![](images/m-2.png)
-**["Magnitud -2: Un gato cayendo desde un tocador". (Tomado de [[2]](#note2).]**
+**["Magnitud -2: Un gato cayendo desde un tocador". (Tomado de [[3]](#note3).]**
 
 En segundo lugar, es importante dejar en claro de que, a diferencia de lo que se concibe en el imaginario popular, existen varias escalas sismológicas que se han creado a lo largo del siglo XX. Una de las más antiguas es la escala de Mercalli, la misma que se concibió como una manera de caracterizar la intensidad de los sismos, desde un punto de vista cualitativo (en base a una mera observación de los hechos) y asignando un valor en números romanos entre I y XII en función a los daños ocasionados en la zona afectada. Desafortunadamente y para fines de estudios, comparaciones y demás, este valor no permitía cuantificar de manera objetiva qué tanta energía se liberaba en un movimiento telúrico.
 
